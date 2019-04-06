@@ -6,4 +6,4 @@ A game where user faces the computer. Computer employs minimax strategy, and opt
 
 Entry point: game_view.py
 
-Project done for CSC148 @ University of Toronto
+Project done for Introduction to Computer Science course @ U of T
